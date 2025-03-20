@@ -59,7 +59,7 @@ Meu nome é Thiago Granetto Floriani, tenho 24 anos e sou apaixonado por desenvo
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
-    style="padding-right:200px" 
+    style="padding-right:10px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 
@@ -72,6 +72,7 @@ Meu nome é Thiago Granetto Floriani, tenho 24 anos e sou apaixonado por desenvo
     src="https://github.com/user-attachments/assets/56fe1515-e60d-4c31-9183-90aa4450b64a"/>
 </div>
 
+<br/>
 <br/>
 <br/>
 <br/>
@@ -91,7 +92,7 @@ Meu nome é Thiago Granetto Floriani, tenho 24 anos e sou apaixonado por desenvo
   />
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       height="190" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogranetto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
