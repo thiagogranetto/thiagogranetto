@@ -3,6 +3,12 @@
 
 Meu nome é Thiago Granetto Floriani, tenho 24 anos e sou apaixonado por desenvolvimento front-end. Atualmente, curso Ciência da Computação e dedico parte do meu tempo à criação de projetos paralelos, visando aprimorar minhas habilidades e ganhar experiência na área. Estou sempre em busca de aprender novas ferramentas e tecnologias, além de me manter atualizado com as tendências e melhores práticas do mercado.
 <br/>
+<div> 
+  <a href="https://wa.me/5549998390336?text=Ol%C3%A1%20Thiago!%20Tudo%20certo?%20" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "mailto:granettot@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiago-granetto-floriani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 ---
 ### 🤖 Linguagens e Tecnologias
