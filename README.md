@@ -68,11 +68,12 @@ Meu nome é Thiago Granetto Floriani, tenho 24 anos e sou apaixonado por desenvo
     title="eu codando"
     alt="macacocodando"
     width="200px" 
-    style="padding-end:70px"
     align="right"
     src="https://github.com/user-attachments/assets/56fe1515-e60d-4c31-9183-90aa4450b64a"/>
 </div>
 
+<br/>
+<br/>
 <br/>
 <br/>
 
@@ -84,7 +85,7 @@ Meu nome é Thiago Granetto Floriani, tenho 24 anos e sou apaixonado por desenvo
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="190" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=thiagogranetto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -92,7 +93,7 @@ Meu nome é Thiago Granetto Floriani, tenho 24 anos e sou apaixonado por desenvo
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="190" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogranetto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
