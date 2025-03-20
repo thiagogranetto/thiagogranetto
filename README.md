@@ -1,5 +1,7 @@
-## Olá! Eu sou o Thiago Granetto 👨‍💻
+## Olá! Eu sou o Thiago 👨‍💻
 **`Desenvolvedor Front-end`**
+
+Meu nome é Thiago Granetto Floriani, tenho 24 anos e sou apaixonado por desenvolvimento front-end. Atualmente, curso Ciência da Computação e dedico parte do meu tempo à criação de projetos paralelos, visando aprimorar minhas habilidades e ganhar experiência na área. Estou sempre em busca de aprender novas ferramentas e tecnologias, além de me manter atualizado com as tendências e melhores práticas do mercado.
 <br/>
 
 ---
@@ -10,7 +12,6 @@
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -58,9 +59,19 @@
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right:200px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
+
+<div>
+    <img
+    title="eu codando"
+    alt="macacocodando"
+    width="200px" 
+    style="padding-end:70px"
+    align="right"
+    src="https://github.com/user-attachments/assets/56fe1515-e60d-4c31-9183-90aa4450b64a"/>
+</div>
 
 <br/>
 <br/>
