@@ -86,7 +86,7 @@ Meu nome é Thiago Granetto Floriani, tenho 24 anos e sou apaixonado por desenvo
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="190" 
+    height="160" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=thiagogranetto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
